@@ -5,10 +5,10 @@
     <string name="issue_report_body_2">Mohon beritahu kami sesegera mungkin!</string>
     <string name="issue_report_github">Laporkan di GitHub</string>
     <string name="issue_report_telegram">Hubungi melalui Telegram</string>
-    <string name="issue_report_github_link">https://github.com/rifsxd/KernelSU-Next/issues</string>
-    <string name="issue_report_telegram_link">https://t.me/ksunext</string>
+    <string name="issue_report_github_link">https://127.0.0.1/</string>
+    <string name="issue_report_telegram_link">https://127.0.0.1/</string>
     <string name="confirm">Yakin</string>
-    <string name="app_name" translatable="false">KernelSU Next</string>
+    <string name="app_name" translatable="false">Usami Mizuki</string>
     <string name="home">Beranda</string>
     <string name="home_not_installed">Tidak terinstal</string>
     <string name="home_click_to_install">Klik untuk menginstal</string>
@@ -16,8 +16,8 @@
     <string name="home_working_version">Versi: %d</string>
     <string name="home_superuser_count">SuperUser: %d</string>
     <string name="home_module_count">Modul: %d</string>
-    <string name="home_failure">Tandatangan KernelSU Next v2 tidak ditemukan pada kernel! [ !KSU_NEXT || != size/hash ]</string>
-    <string name="home_failure_tip">Mohon agar para pengembang kernel anda mengintegrasikan KernelSU Next!</string>
+    <string name="home_failure">Tandatangan Usami Mizuki v2 tidak ditemukan pada kernel! [ !KSU_NEXT || != size/hash ]</string>
+    <string name="home_failure_tip">Mohon agar para pengembang kernel anda mengintegrasikan Usami Mizuki!</string>
     <string name="home_kernel">Kernel</string>
     <string name="home_susfs">SuSFS: %s</string>
     <string name="home_susfs_version">SuSFS</string>
@@ -63,12 +63,12 @@
     <string name="safe_mode">Mode aman</string>
     <string name="reboot_to_apply">Reboot agar berfungsi</string>
     <string name="module_magisk_conflict">Konflik dengan Magisk, fungsi modul ditiadakan!</string>
-    <string name="home_next_kernelsu">🔥 Pembangunan Next</string>
-    <string name="home_next_kernelsu_repo">https://github.com/rifsxd/KernelSU-Next</string>
-    <string name="home_next_kernelsu_body">Next cabang eksperimental. Lihat di GitHub!</string>
+    <string name="home_next_kernelsu">🥰 Pembangunan Usami Mizuki</string>
+    <string name="home_next_kernelsu_repo">https://127.0.0.1/</string>
+    <string name="home_next_kernelsu_body">Usami Mizuki cabang eksperimental. Lihat di GitHub!</string>
     <string name="home_experimental_kernelsu">⚠️ Peringatan Pengembangan Eksperimental!</string>
     <string name="home_experimental_kernelsu_repo">127.0.0.1</string>
-    <string name="home_experimental_kernelsu_body">Next adalah versi non-resmi yang selalu dalam pengembangan eksperimental aktif. Versi ini disediakan apa adanya, tanpa jaminan stabilitas, performa, atau keandalan.</string>
+    <string name="home_experimental_kernelsu_body">Usami Mizuki adalah versi non-resmi yang selalu dalam pengembangan eksperimental aktif. Versi ini disediakan apa adanya, tanpa jaminan stabilitas, performa, atau keandalan.</string>
     <string name="home_experimental_kernelsu_body_point_1"> • Gunakan dengan risiko anda sendiri: Mungkin mengalami kerusakan, perilaku yang tidak terduga, atau menyebabkan masalah sistem.</string>
     <string name="home_experimental_kernelsu_body_point_2"> • Tidak ada garansi: Pengembang tidak bertanggung jawab atas kehilangan data, kerusakan sistem, atau konsekuensi lain yang timbul dari penggunaannya.</string>
     <string name="home_experimental_kernelsu_body_point_3"> • Hanya untuk tujuan pengujian: Aplikasi ini ditujukan untuk pengguna yang memahami risiko dan nyaman dalam memecahkan masalah.</string>
@@ -87,7 +87,7 @@
     <string name="profile_selinux_context">SELinux</string>
     <string name="profile_umount_modules">Umount Modul</string>
     <string name="failed_to_update_app_profile">Gagal membarui Profil pada %s</string>
-    <string name="require_kernel_version">Versi KernelSU-Next %d terlalu rendah agar manajer berfungsi normal. Harap membarui ke versi %d atau di atasnya!</string>
+    <string name="require_kernel_version">Versi Usami Mizuki %d terlalu rendah agar manajer berfungsi normal. Harap membarui ke versi %d atau di atasnya!</string>
     <string name="settings_umount_modules_default">Melepas Modul secara bawaan</string>
     <string name="settings_umount_modules_default_summary">Menggunakan \"Umount Modul\" secara universal pada Profil Aplikasi. Jika diaktifkan, akan menghapus semua modifikasi sistem untuk aplikasi yang tidak memiliki set profil.</string>
     <string name="settings_susfs_toggle">Sembunyikan kait su yang mencurigakan</string>
@@ -147,8 +147,8 @@
     <string name="settings_uninstall_temporary">Hapus temporer</string>
     <string name="settings_uninstall_permanent">Hapus permanen</string>
     <string name="settings_restore_stock_image">Pulihkan image asal</string>
-    <string name="settings_uninstall_temporary_message">Hapus temporer KernelSU Next, pulihkan ke kondisi asali setelah but berikutnya.</string>
-    <string name="settings_uninstall_permanent_message">Hapus permanen KernelSU-Next (root dan modul).</string>
+    <string name="settings_uninstall_temporary_message">Hapus temporer Usami Mizuki, pulihkan ke kondisi asali setelah but berikutnya.</string>
+    <string name="settings_uninstall_permanent_message">Hapus permanen Usami Mizuki (root dan modul).</string>
     <string name="settings_restore_stock_image_message">Pulihkan image bawaan ROM (jika cadangan tersedia), umumnya dilakukan sebelum OTA; jika ingin menghapus KernelSU, gunakan fungsi "Hapus permanen".</string>
     <string name="flashing">Pasang</string>
     <string name="flash_success">Pemasangan Berhasil</string>

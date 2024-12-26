@@ -23,7 +23,7 @@ apksign {
 }
 
 android {
-    namespace = "com.rifsxd.ksunext"
+    namespace = "suki.usami.mizuki"
 
     buildTypes {
         release {
