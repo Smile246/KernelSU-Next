@@ -18,7 +18,6 @@ on:
 
 jobs:
   build-ksud:
-    needs: build-lkm
     strategy:
       matrix:
         include:
