@@ -16,7 +16,7 @@
     <string name="home_working_version">Versi: %d</string>
     <string name="home_superuser_count">SuperUser: %d</string>
     <string name="home_module_count">Modul: %d</string>
-    <string name="home_failure">Tandatangan Usami Mizuki v2 tidak ditemukan pada kernel! [ !KSU_NEXT || != size/hash ]</string>
+    <string name="home_failure">Tandatangan Usami Mizuki v2 tidak ditemukan pada kernel! [ !Usami Mizuki || != size/hash ]</string>
     <string name="home_failure_tip">Mohon agar para pengembang kernel anda mengintegrasikan Usami Mizuki!</string>
     <string name="home_kernel">Kernel</string>
     <string name="home_susfs">SuSFS: %s</string>
